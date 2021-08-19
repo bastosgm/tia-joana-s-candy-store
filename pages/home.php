@@ -7,15 +7,18 @@
     <div class="row">
         <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
             <a href="#" ><img src="./img/candy-bg.png" class="img-responsive"></a>
-            <h1 class="title display-5 fw-bold">You're welcome here! <small>Just have a look and feel free to explore</small></h1>
+            <h1 class="title display-5 fw-bold">You're welcome here! <small>Just have a look and feel free to explore <br> ____________________________</small></h1>
         </div>
     </div>
 
 
     <div class="container marketing">
-        <div class="row py-5">
+        <div class="row pb-5">
             <h2 class="featurette-heading fs-1">It's all for you!</h2>
             <p class="lead mb-5">Below we preparate for you some of our most popular candies, we hope you enjoy! </p>
+            <hr class="featurette-divider mb-5">
+
+        <div></div>    
             <!-- candy 1-->
             <div class="col-lg-4">
                 <img src="<?php echo $arr['1']['image'] ?>" class="img-thumbnail" alt="<?php echo $arr['1']['name'] ?>">
