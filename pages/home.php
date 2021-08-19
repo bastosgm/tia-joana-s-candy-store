@@ -43,7 +43,7 @@
                 <p><a class="btn btn-danger" href="?i=product3">Take a look</a></p>
             </div>
 
-            <!-- candy 4-->
+            <!-- candy 4 -->
             <div class="col-lg-4 mt-5">
                 <img src="<?php echo $arr['4']['image'] ?>" class="img-thumbnail" alt="<?php echo $arr['4']['name'] ?>">
 
@@ -52,13 +52,22 @@
                 <p><a class="btn btn-danger" href="?i=product4">Take a look</a></p>
             </div>
 
-            <!-- candy 5-->
+            <!-- candy 5 -->
             <div class="col-lg-4 mt-5">
                 <img src="<?php echo $arr['5']['image'] ?>" class="img-thumbnail" alt="<?php echo $arr['5']['name'] ?>">
 
                 <h2 class="mt-3"><?php echo $arr['5']['name'] ?></h2>
                 <p><?php echo $arr['5']['description'] ?></p>
                 <p><a class="btn btn-danger" href="?i=product5">Take a look</a></p>
+            </div>
+
+            <!-- candy 6 -->
+            <div class="col-lg-4 mt-5">
+                <img src="<?php echo $arr['6']['image'] ?>" class="img-thumbnail" alt="<?php echo $arr['6']['name'] ?>">
+
+                <h2 class="mt-3"><?php echo $arr['6']['name'] ?></h2>
+                <p><?php echo $arr['6']['description'] ?></p>
+                <p><a class="btn btn-secondary" href="#" disabled>Take a look</a></p>
             </div>
         </div>
     </div> 

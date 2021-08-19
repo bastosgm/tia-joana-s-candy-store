@@ -86,6 +86,15 @@
             'description' => 'This one makes me feel so hungry... I&#8217;ll have one of course!',
             'about' => '* aqui vai um sobre do doce *',
             'price' => '3.99'
+        ],
+
+        '6' => [
+            'id' => 6,
+            'image' => './img/mistery.png',
+            'name' => '?????',
+            'description' => 'Soon...',
+            'about' => '',
+            'price' => ''
         ]
         ];
     
