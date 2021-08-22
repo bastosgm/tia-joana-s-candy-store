@@ -18,7 +18,8 @@
             <p class="lead mb-5">Below we preparate for you some of our most popular candies, we hope you enjoy! </p>
             <hr class="featurette-divider mb-5">
 
-        <div></div>    
+        <div></div>
+            
             <!-- candy 1-->
             <div class="col-lg-4">
                 <img src="<?php echo $arr['1']['image'] ?>" class="img-thumbnail" alt="<?php echo $arr['1']['name'] ?>">
