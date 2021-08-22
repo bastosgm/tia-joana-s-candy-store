@@ -23,7 +23,7 @@
                 </div>
             </div>
             
-            <img src="./img/brigadeiro2.png" alt="brigadeiro">
+            <img src="./img/brigadeiro2.png" width="700px" alt="brigadeiro">
             
 
         </div>
