@@ -48,7 +48,7 @@
             'name' => 'Brigadeiro',
             'image' => './img/brigadeiro.png',
             'description' => 'Most known Brazilian sweet, so loved even by "gringos"!',
-            'about' => '* aqui vai um sobre do doce *',
+            'about' => 'Milk chocolate candy with chocolate sprinkles',
             'price' => '4.99'
         ],
 
