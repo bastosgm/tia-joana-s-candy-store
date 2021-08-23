@@ -4,11 +4,6 @@
 
 <head>
     <title>Tia Joana's | About Us</title>
-    <style>
-        /* .drop-shadow {
-            box-shadow: 0 5px 30px #ccc;
-        } */
-    </style>
 </head>
 
 <main>
@@ -17,21 +12,21 @@
         <div class="container-fluid d-flex justify-content-between px-5 py-5">
             <div>
                 <div>
-                    <h1 class="display-5 fw-bold"><?php echo $arr['1']['name'] ?></h1>
-                    <p class="col-md-8 fs-4"><?php echo $arr['1']['about'] ?></p>
+                    <h1 class="display-5 fw-bold"><?php echo $arr['2']['name'] ?></h1>
+                    <p class="col-md-8 fs-4"><?php echo $arr['2']['about'] ?></p>
                     <p>__________________________________________________</p><br>
                 </div>
                 <div class="mt-5">
                     
                     
                     <p class="mb-0">on sale for only</p>
-                    <p class="display-1">$<?php echo $arr['4']['price'] ?></p>
+                    <p class="display-1">$<?php echo $arr['2']['price'] ?></p>
                     <button type="button" class="btn btn-light btn-lg me-2">Buy</button>
                     <button type="button" class="btn btn-outline-light btn-lg">Try it for free</button>
                 </div>
             </div>
             
-            <img src="./img/brigadeiro2.png" width="700px" alt="brigadeiro">
+            <img src="./img/beijinho2.png" width="700px" alt="brigadeiro">
             
 
         </div>
@@ -39,21 +34,9 @@
             <div class="container">
                 <h1>Did you know?</h1> <br>
                 
-                Jokes apart, brigadeiro is a candy with an interesting story. <br>
+                Beijinho is the coconut version of the Brazilian brigadeiro. When rolled, it can be covered with granulated sugar or grated coconut. Traditionally a single clove is stuck in the top of the candy.
 
-                Right after WW2, while Rio de Janeiro was still Brazil’s capital, the country was busy with the reelection of the new president.
-
-                One of the candidates, Brigadier Eduardo Gomes, besides being quite charming, was considered a handsome man by the female voters, who were finally allowed to vote in 1932.
-
-                Brigadier Eduardo Gomes, the brigadeiro
-                Flyer of Eduardo Gomes. 1945 Brazil Presidential Campaign
-                To show their candidate support, these voters prepared sweets to serve in rallies and public meetings.
-
-                Mind you, brigadeiro was named after the candidate’s title, brigadier, but in Portuguese.
-
-                But because it was a post-war period, the country was still rationing many ingredients and products.
-
-                And instead of using milk and sugar, as in most desserts, Heloísa Nabuco de Olivera–the creator of brigadeiro–used sweetened condensed milk to prepare this delicious Brazilian sweet. 
+                It is believed that Beijinho was originally called "Nun's kiss" and formerly made with almonds, water and sugar. 
             </div>
 
         </div>    

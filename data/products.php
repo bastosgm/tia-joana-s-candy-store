@@ -57,7 +57,7 @@
             'image' => './img/beijinho.png',
             'name' => 'Beijinho',
             'description' => 'Another candy based on coconut, delicious!',
-            'about' => '* aqui vai um sobre do doce *',
+            'about' => 'Grated coconut, condensed milk and butter',
             'price' => '3.99' 
         ],
 
