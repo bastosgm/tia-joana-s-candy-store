@@ -84,7 +84,7 @@
             'image' => './img/pudim.png',
             'name' => 'Pudim',
             'description' => 'This one makes me feel so hungry... I&#8217;ll have one of course!',
-            'about' => '* aqui vai um sobre do doce *',
+            'about' => 'Condensed milk, milk and eggs',
             'price' => '3.99'
         ],
 
