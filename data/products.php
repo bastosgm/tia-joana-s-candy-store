@@ -75,7 +75,7 @@
             'image' => './img/docedeabobora.png',
             'name' => 'Doce de Abóbora',
             'description' => 'Who doesn&#8217;t remember granny eating one of these?',
-            'about' => '* aqui vai um sobre do doce *',
+            'about' => 'Pumpkin, cinnamon and sugar',
             'price' => '3.99' 
         ],
 

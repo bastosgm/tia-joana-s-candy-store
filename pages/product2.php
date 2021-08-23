@@ -3,7 +3,7 @@
 ?>
 
 <head>
-    <title>Tia Joana's | About Us</title>
+    <title>Tia Joana's | Beijinho</title>
 </head>
 
 <main>
