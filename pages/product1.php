@@ -1,10 +1,9 @@
+<?php
+    include 'data/products.php'
+?>
+
 <head>
-    <title>Tia Joana's | About Us</title>
-    <style>
-        /* .drop-shadow {
-            box-shadow: 0 5px 30px #ccc;
-        } */
-    </style>
+    <title>Tia Joana's | Brigadeiro</title>
 </head>
 
 <main>
@@ -13,15 +12,15 @@
         <div class="container-fluid d-flex justify-content-between px-5 py-5">
             <div>
                 <div>
-                    <h1 class="display-5 fw-bold">Brigadeiro</h1>
-                    <p class="col-md-8 fs-4">Milk chocolate candy with chocolate sprinkles</p>
+                    <h1 class="display-5 fw-bold"><?php echo $arr['1']['name'] ?></h1>
+                    <p class="col-md-8 fs-4"><?php echo $arr['1']['about'] ?></p>
                     <p>__________________________________________________</p><br>
                 </div>
                 <div class="mt-5">
                     
                     
                     <p class="mb-0">on sale for only</p>
-                    <p class="display-1">R$ 3,99</p>
+                    <p class="display-1">$<?php echo $arr['1']['price'] ?></p>
                     <button type="button" class="btn btn-light btn-lg me-2">Buy</button>
                     <button type="button" class="btn btn-outline-light btn-lg">Try it for free</button>
                 </div>
