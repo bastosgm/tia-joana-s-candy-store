@@ -3,7 +3,8 @@
 ?>
 
 <main>
-        
+
+    <!-- welcome display -->    <!-- -->
     <div class="row">
         <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
             <a href="#" ><img src="./img/homebg.png" class="img-responsive"></a>
@@ -11,7 +12,7 @@
         </div>
     </div>
 
-
+    <!-- products -->
     <div class="container marketing">
         <div class="row pb-5">
             <h2 class="featurette-heading fs-1">It's all for you!</h2>
@@ -76,9 +77,9 @@
         </div>
     </div> 
 
-  </div><!-- /.container -->
-
+  </div>
         
+      <!-- News soon -->  
       <div class="container my-5">
         <h2 class="featurette-heading">News soon... <span class="text-muted">wait a little longer</span></h2>
         <p class="lead">We're preparing carefully more about what you'll like too much... sugar! :D</p>

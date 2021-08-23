@@ -8,7 +8,7 @@
 </head>
 
 <main>
-        
+    <!-- about us - page introducing -->    
     <div class="container p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid px-5 py-5">
             <h1 class="display-5 fw-bold">About Us</h1>
@@ -16,6 +16,7 @@
         </div>
     </div>
 
+    <!-- story with image -->    
     <div class="container">
               
         <div class="container-fluid pt-5 mb-5 bg-warning">

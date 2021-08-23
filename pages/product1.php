@@ -9,30 +9,39 @@
 <main>
     
     <div class="container p-3 mb-0 bg-dark text-light">
+        
+        <!-- presenting product -->
         <div class="container-fluid d-flex justify-content-between px-5 py-5">
+            
             <div>
+                
                 <div>
                     <h1 class="display-5 fw-bold"><?php echo $arr['1']['name'] ?></h1>
                     <p class="col-md-8 fs-4"><?php echo $arr['1']['about'] ?></p>
                     <p>__________________________________________________</p><br>
                 </div>
+                
                 <div class="mt-5">
-                    
                     
                     <p class="mb-0">on sale for only</p>
                     <p class="display-1">$<?php echo $arr['1']['price'] ?><span class="fs-6">/UN</span></p>
                     <button type="button" class="btn btn-success btn-lg me-2">Buy</button>
                     <button type="button" class="btn btn-outline-success btn-lg">Try it for free</button>
+                
                 </div>
+            
             </div>
             
             <img src="./img/brigadeiro2.png" width="700px" alt="brigadeiro">
             
-
-        </div>
-        <div class="container p-5 pt-0 pb-5">    
-            <div class="container">
-                <h1>Did you know?</h1> <br>
+    </div>
+    
+    <!-- did you know? -->    
+    <div class="container p-5 pt-0 pb-5">    
+        
+        <div class="container">
+            
+            <h1>Did you know?</h1> <br>
                 
                 Jokes apart, brigadeiro is a candy with an interesting story. <br>
 
@@ -52,7 +61,10 @@
             </div>
 
         </div>    
+    
     </div>
+    
+    <!-- delivery options -->
     <div class="container pt-0 mb-4 bg-light rounded-3">
         <div class="container px-5 py-5">
             <h1>You can too</h1> <br>

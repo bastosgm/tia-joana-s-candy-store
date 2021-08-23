@@ -6,9 +6,10 @@ if(isset($_GET['i'])){
      $pages = addslashes($_GET['i']); 
 }
     
-    
+    //header
     include 'pages/header.php';
 
+    //mains
     switch ($pages) {
         case 'about_us':
             include 'pages/about_us.php';
@@ -38,10 +39,11 @@ if(isset($_GET['i'])){
         include 'pages/home.php';
         break;
 }
-
+    //footer
     include 'pages/footer.php';
 ?>
 
+<!-- HTML -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,6 +54,7 @@ if(isset($_GET['i'])){
     <link rel="stylesheet" href="./css/style.css">
     <style>
         
+        /* reset */ 
         * {
             margin: 0;
             padding: 0;

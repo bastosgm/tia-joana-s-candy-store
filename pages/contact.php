@@ -8,6 +8,8 @@
 </head>
 
 <main>
+
+    <!-- contact - page introducing -->
     <div class="container p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid px-5 py-5 pb-4">
             <h1 class="display-5 fw-bold">Contact</h1>
@@ -16,6 +18,7 @@
         </div>
     </div>
 
+    <!-- contacts -->
     <div class="container bd-example bg-secondary pt-5 text-light">
         <h2 class="px-5">Here it is</h2>
         <br>
@@ -37,6 +40,7 @@
         </div>
     </div>
 
+    <!-- form -->
     <div class="container bg-secondary text-light p-5 mb-5">
         <h2 class="pt-3">Still needs help?</h2>
         <p>Do you need more information? fill in the blanks and send us, we'll be happy to help</p>

@@ -8,6 +8,8 @@
 </head>
 
 <main>
+
+    <!-- location - page introducing -->
     <div class="container p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid px-5 py-5">
             <h1 class="display-5 fw-bold">Where find us</h1>
@@ -15,6 +17,7 @@
         </div>
     </div>
 
+    <!-- map and addresses -->
     <div class="container pt-5 mb-5 bg-success d-flex align-items-start flex-row">
         <div class="container">
             <img src="img/maps.png" width="950px" height="650px" class="p-5 pt-1 img-responsive" alt="donuts">
