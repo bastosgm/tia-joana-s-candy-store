@@ -20,7 +20,7 @@
                     
                     
                     <p class="mb-0">on sale for only</p>
-                    <p class="display-1">$<?php echo $arr['1']['price'] ?></p>
+                    <p class="display-1">$<?php echo $arr['1']['price'] ?><span class="fs-6">/UN</span></p>
                     <button type="button" class="btn btn-light btn-lg me-2">Buy</button>
                     <button type="button" class="btn btn-outline-light btn-lg">Try it for free</button>
                 </div>
