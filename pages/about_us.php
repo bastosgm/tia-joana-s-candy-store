@@ -21,7 +21,7 @@
               
         <div class="container-fluid pt-5 mb-5 bg-warning">
             <div class="container">
-                <img src="img/bg-aboutus.png" width="99%" height="70%" class="p-5 pt-1 img-responsive" alt="donuts">
+                <img src="img/aboutus.png" width="99%" height="70%" class="p-5 pt-1 img-responsive" alt="donuts">
             </div>
             <h2 class="px-5">Our Story</h2>
             <p class="p-5 pt-3">
