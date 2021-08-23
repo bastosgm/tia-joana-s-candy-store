@@ -26,7 +26,7 @@
                 </div>
             </div>
             
-            <img src="./img/paodemel2.png" width="700px" alt="pão de mel">
+            <img src="./img/paodemel2.png" width="700px" alt="Pão de mel">
             
 
         </div>
