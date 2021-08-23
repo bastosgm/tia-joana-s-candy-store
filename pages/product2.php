@@ -21,12 +21,12 @@
                     
                     <p class="mb-0">on sale for only</p>
                     <p class="display-1">$<?php echo $arr['2']['price'] ?><span class="fs-6">/UN</span></p>
-                    <button type="button" class="btn btn-light btn-lg me-2">Buy</button>
-                    <button type="button" class="btn btn-outline-light btn-lg">Try it for free</button>
+                    <button type="button" class="btn btn-success btn-lg me-2">Buy</button>
+                    <button type="button" class="btn btn-outline-success btn-lg">Try it for free</button>
                 </div>
             </div>
             
-            <img src="./img/beijinho2.png" width="700px" alt="brigadeiro">
+            <img src="./img/beijinho2.png" width="700px" alt="beijinho">
             
 
         </div>

@@ -66,7 +66,7 @@
             'image' => './img/paodemel.png',
             'name' => 'Pão de Mel',
             'description' => 'Huuuum, seems good? It&#8217;s more than good!',
-            'about' => '* aqui vai um sobre do doce *',
+            'about' => 'Honey, chocolate and butter',
             'price' => '3.99'
         ],
 
