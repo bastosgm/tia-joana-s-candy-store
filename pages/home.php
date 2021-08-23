@@ -26,7 +26,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['1']['name'] ?></h2>
                 <p><?php echo $arr['1']['description'] ?></p>
-                <p><a class="btn btn-danger" href="?i=product1">Take a look</a></p>
+                <p><a class="btn btn-outline-danger" href="?i=product1">Take a look</a></p>
             </div>
 
             <!-- candy 2-->
@@ -35,7 +35,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['2']['name'] ?></h2>
                 <p><?php echo $arr['2']['description'] ?></p>
-                <p><a class="btn btn-danger" href="?i=product2">Take a look</a></p>
+                <p><a class="btn btn-outline-danger" href="?i=product2">Take a look</a></p>
             </div>
             
             <!-- candy 3-->
@@ -44,7 +44,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['3']['name'] ?></h2>
                 <p><?php echo $arr['3']['description'] ?></p>
-                <p><a class="btn btn-danger" href="?i=product3">Take a look</a></p>
+                <p><a class="btn btn-outline-danger" href="?i=product3">Take a look</a></p>
             </div>
 
             <!-- candy 4 -->
@@ -53,7 +53,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['4']['name'] ?></h2>
                 <p><?php echo $arr['4']['description'] ?></p>
-                <p><a class="btn btn-danger" href="?i=product4">Take a look</a></p>
+                <p><a class="btn btn-outline-danger" href="?i=product4">Take a look</a></p>
             </div>
 
             <!-- candy 5 -->
@@ -62,7 +62,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['5']['name'] ?></h2>
                 <p><?php echo $arr['5']['description'] ?></p>
-                <p><a class="btn btn-danger" href="?i=product5">Take a look</a></p>
+                <p><a class="btn btn-outline-danger" href="?i=product5">Take a look</a></p>
             </div>
 
             <!-- candy 6 -->
@@ -71,7 +71,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['6']['name'] ?></h2>
                 <p><?php echo $arr['6']['description'] ?></p>
-                <p><a class="btn btn-secondary" href="#" disabled>Take a look</a></p>
+                <p><a class="btn btn-outline-secondary" href="#" disabled>Take a look</a></p>
             </div>
         </div>
     </div> 

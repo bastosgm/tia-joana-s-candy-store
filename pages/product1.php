@@ -15,11 +15,15 @@
                 <div>
                     <h1 class="display-5 fw-bold">Brigadeiro</h1>
                     <p class="col-md-8 fs-4">Milk chocolate candy with chocolate sprinkles</p>
+                    <p>__________________________________________________</p><br>
                 </div>
                 <div class="mt-5">
+                    
+                    
+                    <p class="mb-0">on sale for only</p>
+                    <p class="display-1">R$ 3,99</p>
                     <button type="button" class="btn btn-light btn-lg me-2">Buy</button>
                     <button type="button" class="btn btn-outline-light btn-lg">Try it for free</button>
-                    <p>__________________________________________________</p>
                 </div>
             </div>
             
@@ -29,7 +33,7 @@
         </div>
         <div class="container p-5 pt-0 pb-5">    
             <div class="container">
-                <h1>Brigadeiro origins</h1> <br>
+                <h1>Did you know?</h1> <br>
                 
                 Jokes apart, brigadeiro is a candy with an interesting story. <br>
 
