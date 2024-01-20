@@ -35,14 +35,6 @@ https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cl
 
 <br>
 
-## About me
-
-I'm a web systems development student, Registered in UniCesumar - PR
-RA: 20085491-5
-Github: https://github.com/bastosgm
-Linkedin: https://www.linkedin.com/in/bastosgm/
-Twitter: https://twitter.com/bastosgm_
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
